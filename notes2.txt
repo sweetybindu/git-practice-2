@@ -1,2 +1,5 @@
 Git practice - Round 2
 Learning git from scratch again
+
+Day 3:
+Learning git diff and daily workflow

@@ -3,3 +3,5 @@ Learning git from scratch again
 
 Day 3:
 Learning git diff and daily workflow
+Day 4:
+Learning git branches safely
